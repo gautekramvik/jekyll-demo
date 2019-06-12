@@ -10,7 +10,7 @@ partners:
 services:
 - description: Developing tomorrows solutions today
   heading: SharePoint
-  icon: "/uploads/2019/06/12/logosharepoint.svg"
+  icon: "/uploads/2019/06/12/sharepoint-logo.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
