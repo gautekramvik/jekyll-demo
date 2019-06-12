@@ -18,6 +18,8 @@ menu:
     weight: 2
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+Våre folk er spesialister på teknisk og strategisk rådgivning i SharePoint, Dynamics365, Talent, Office365, PowerBI og Nintex.
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Vi utfører alt av rådgivning, konfigurasjon, utvikling, endringsledelse, prosjektledelse og opplæring.
+
+Vi ligger hele tiden i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.
