@@ -3,7 +3,7 @@ title: About
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2019/06/12/mallory_norton_1.jpg"
 heading: About Point Taken
-sub_heading: Ora et Labora
+sub_heading: 'Point Taken 2: Electric Boogaloo'
 layout: landing-page
 textline: A multidisciplinary centre of experts who are essential to patient-oriented
   research.
