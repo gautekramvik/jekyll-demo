@@ -11,10 +11,9 @@ services:
 - description: Developing tomorrows solutions today
   heading: SharePoint
   icon: "/uploads/2019/06/12/sharepoint-logo.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: The new and better version of Office 364.
+  heading: Office 365
+  icon: "/uploads/2019/06/12/office365-logo.png"
 sub_heading: Engineering SharePoint for a better tomorrow
 textline: 'Point Taken Engineering society. '
 hero_button:
