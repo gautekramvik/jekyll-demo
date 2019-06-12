@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2019/06/12/crm_smal.jpg"
 layout: landing-page
-heading: Point Taken Engineering Studio
+heading: Point Taken Engineering
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
