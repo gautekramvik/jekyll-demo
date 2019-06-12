@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/06/12/crm_smal.jpg"
 layout: landing-page
 heading: Point Taken Engineering Studio
 partners:
